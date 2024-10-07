@@ -3,8 +3,14 @@ body, html {
     padding: 0;
 }
 
-header{
+#cabeza{
     display: flex;
+    justify-content: end;
+    padding: 0px 0px;
+}
+
+header{
+    display: block;
     justify-content: end;
     padding: 0px 0px;
     
